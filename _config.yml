@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Susan E. McGregor - On technology, information & education. R&D on information security for journalists.
+title: Susan E. McGregor
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   On technology, information & education. R&D on information security for journalists.
@@ -33,6 +33,9 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
+about.md
+research.md
+publications.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
