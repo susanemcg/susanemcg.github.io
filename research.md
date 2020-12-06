@@ -29,10 +29,9 @@ READ MORE >>
 <br/>
 READ MORE >>
 </div>
-<br clear="all"/>
 
 
-####PROJECTS
+#### PROJECTS
 -----
 
 <div style="padding-bottom:20px;line-height:1.5em;">
