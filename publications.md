@@ -6,7 +6,7 @@ title: PRESENTATIONS & PUBLICATIONS
 #### BOOKS
 -----
 **Practical Python Data Wrangling and Data Quality**, O'Reilly Media, Sebastopol, CA. *Forthcoming, 2021.*
-<p style:"color:red;">Early release: December 8th, 2020</p>
+<div style:"color:red;">Early release: December 8th, 2020</div>
 
 **Information Security Essentials: A Guide for Journalists, Editors and Newsroom Leaders**, Columbia University Press, New York, NY. *Forthcoming, 2021.*
 
