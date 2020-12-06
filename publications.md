@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PRESENTATIONS & PUBLICATIONS
+title: PUBLICATIONS
 ---
 
 #### BOOKS
