@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RESEARCH & PROJECTS
+title: RESEARCH
 ---
 
 #### RESEARCH
