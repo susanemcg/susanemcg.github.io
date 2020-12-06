@@ -8,21 +8,18 @@ title: RESEARCH & PROJECTS
 <div style="padding-bottom:20px;line-height:1.5em;">
   <b>You Are Here</b><br/>  
 <img src="images/DeviceWeb-300x213.jpg" style="float:left;text-align:top;padding-right:10px;" /><p>“You Are Here” is an experiment in using digital technologies to represent and engage truly local communities, by offering content and interaction that is only available in a particular place. Using small, inexpensive, open-source wireless routers to deliver compelling, location-specific content, “You Are Here” seeks to facilitate conversations that are informed by the character of the physical spaces where they are installed, and which, in turn, shape the lives of the people who live, work, and play there.</p>
-<br/>
 READ MORE >>
 </div>
 
 <div style="padding-bottom:20px;line-height:1.5em;">
   <b>InfoScribe</b><br/>  
 <img src="images/InfoScribePromoo-300x250.jpg" style="float:left;text-align:top;padding-right:10px;" /><p>InfoScribe helps investigative journalists unlock the stories trapped in PDFs. Specifically, InfoScribe is a generalized, web-based crowd-sourcing document transcription platform that invites the public to participate in the journalistic process by transcribing specified data fields from documents. What does that mean in plain English? We are building a platform where journalists can upload image-based documents (such as PDFs) and a community transcribes those documents.</p>
-<br/>
 READ MORE >>
 </div>
 
 <div style="padding-bottom:20px;line-height:1.5em;">
   <b>Data Docs</b><br/>  
 <img src="images/betaLogo.png" style="float:left;text-align:top;padding-right:10px;" /><p>Data Docs is a series of embeddable interactive video narratives, designed to render seamlessly on desktop and mobile devices. By extending the popular Popcorn.js library via our salt plugin, Data Docs offers a mechanism for integrating both static and interactive JavaScript elements – from text to data-driven charts and graphs – into the timeline of a web-based video. Additional plugins and source files support custom video controls, full-screen support, and device detection. All of these features rely on standards-compliant, open technologies, such as HTML, CSS3, Javascript and jQuery, and will be shared using common resources like GitHub. Project website. GitHub repo. Data Docs platform development is made possible with the generous support of the Knight Foundation Prototype Fund.</p>
-<br/>
 READ MORE >>
 </div>
 
@@ -32,7 +29,7 @@ READ MORE >>
 <br/>
 READ MORE >>
 </div>
-
+<br clear="all"/>
 
 
 ####PROJECTS
