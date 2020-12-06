@@ -25,7 +25,7 @@ title: RESEARCH & PROJECTS
   <b>Data Docs</b><br/>  
 <img src="images/AndroidIPhone2-e1377541801874-171x300.png" style="float:left;text-align:top;padding-right:10px;" /><p>Dispatch is a mobile application that provides secure, authenticated, anonymous communication and publishing. Supported by a grant from the Brown Institute for Media Innovation, our research team developed a fully-functioning app that went through its first field test during the 2012 presidential election, allowing users to post photos and text to our test Tumblr account in real time. READ MORE >></p>
 </div>
-
+<br clear="all" />
 
 #### PROJECTS
 -----
