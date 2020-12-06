@@ -3,7 +3,7 @@ layout: page
 title: RESEARCH & PROJECTS
 ---
 
-### RESEARCH
+#### RESEARCH
 -----
 <div style="padding-bottom:20px;line-height:1.5em;">
   <b>You Are Here</b><br/>  
@@ -33,7 +33,9 @@ READ MORE >>
 READ MORE >>
 </div>
 
-###PROJECTS
+
+
+####PROJECTS
 -----
 
 <div style="padding-bottom:20px;line-height:1.5em;">
