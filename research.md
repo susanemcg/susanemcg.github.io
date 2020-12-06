@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Research
+title: RESEARCH & PROJECTS
 ---
 
-Research info TK
