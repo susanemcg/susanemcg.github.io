@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: ABOUT
 ---
 
 Susan McGregor is an Associate Research Scholar at Columbia University’s Data Science Institute, where she also co-chairs its Center for Data, Media & Society. McGregor’s research is centered on security and privacy issues affecting journalists and media organizations. Her current projects include NSF-funded work to provide readers with stronger guarantees about digital media by integrating cryptographic signatures into digital publishing workflows, an effort to develop novel classifiers for detecting abusive and harassing speech targeting journalists on Twitter, and using artificial intelligence and computer vision to help journalists recognize unfamiliar political graphics when reporting in the field. McGregor joins the Data Science Institute from the School of Journalism, where she developed the school’s first data journalism curriculum and served as a primary academic advisor for its dual-degree program in Journalism & Computer Science. She is the author of two forthcoming books: Information Security Essentials: A Guide for Reporters, Editors and Newsroom Leaders is due out from Columbia University Press in early 2021; Practical Python Data Wrangling and Data Quality will be published by O’Reilly Media in summer 2021.
