@@ -3,13 +3,6 @@ layout: page
 title: PUBLICATIONS
 ---
 
-#### BOOKS
------
-**Practical Python Data Wrangling and Data Quality**, O'Reilly Media, Sebastopol, CA. *Forthcoming, 2021.*
-<span style="color:red;">Early release: December 8th, 2020</span>
-
-**Information Security Essentials: A Guide for Journalists, Editors and Newsroom Leaders**, Columbia University Press, New York, NY. *Forthcoming, 2021.*
-
 #### BOOK CHAPTERS
 -----
 "Authenticating Online Media," Marc Ambinder and Connie Rosati, eds., Center for the Study of Ethics of the Rule of Law, Oxford University Press. *Forthcoming, 2021.*
