@@ -1,9 +1,7 @@
 ---
 layout: page
-title: RESEARCH
+title: PROJECTS
 ---
-
-#### RESEARCH
 -----
 <div style="padding-bottom:20px;line-height:1.5em;">
   <b>You Are Here</b><br/>  
