@@ -3,6 +3,8 @@ layout: page
 title: PUBLICATIONS
 ---
 
+Most of my peer-reviewed work can be found [via Google Scholar](https://scholar.google.com/citations?user=B8eR9FIAAAAJ&hl=en), with some white papers available via Columbia University's [Academic Commons repository](https://academiccommons.columbia.edu/search?utf8=%E2%9C%93&f%5Bauthor_ssim%5D%5B%5D=McGregor%2C+Susan+E.).
+
 #### BOOK CHAPTERS
 -----
 "Authenticating Online Media," Marc Ambinder and Connie Rosati, eds., Center for the Study of Ethics of the Rule of Law, Oxford University Press. *Forthcoming, 2021.*
