@@ -34,8 +34,9 @@ plugins:
 # A list of the pages to display in the navigation bar
 header_pages:
  - about.md
- - research.md
+ - books.md
  - publications.md
+ - projects.md
  - resume.md
 
 # Exclude from processing.
