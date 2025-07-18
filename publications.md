@@ -3,32 +3,36 @@ layout: page
 title: PUBLICATIONS
 ---
 
-Most of my peer-reviewed work can be found [via Google Scholar](https://scholar.google.com/citations?user=B8eR9FIAAAAJ&hl=en), with some white papers available via Columbia University's [Academic Commons repository](https://academiccommons.columbia.edu/search?utf8=%E2%9C%93&f%5Bauthor_ssim%5D%5B%5D=McGregor%2C+Susan+E.).
+Most of my peer-reviewed work can be found [via Google Scholar](https://scholar.google.com/citations?hl=en&user=B8eR9FIAAAAJ&view_op=list_works&sortby=pubdate), with some white papers available via Columbia University's [Academic Commons repository](https://academiccommons.columbia.edu/search?utf8=%E2%9C%93&f%5Bauthor_ssim%5D%5B%5D=McGregor%2C+Susan+E.).
 
 #### BOOK CHAPTERS
 -----
-"Authenticating Online Media," Marc Ambinder and Connie Rosati, eds., Center for the Study of Ethics of the Rule of Law, Oxford University Press. *Forthcoming, 2021.*
+"Securing the Digital Media Ecosystem," In *Center for the Study of Ethics of the Rule of Law*, Marc Ambinder and Connie Rosati, eds., Oxford University Press, 2024.
+
+"Longitudinal reporting and the COVID-19 pandemic: The need for integrated newsroom data practice," In *Data Journalism and the COVID-19 Disruption*, Jingrong Tong, ed., Routeledge Research in Journalism, 2024 *(with Joanna Kao)*
 
 "Opportunities and Challenges in Data Journalism," In *Computation for Humanity: Information Technology to Advance Society*, Justyna Zander and Pieter J.Mosterman, eds., CRC Press, 2013. *(with Alon Halevy)*
 
 
 #### SCHOLARLY PUBLICATIONS
 -----
-* Arora, Ishaan, Julia Guo, Sarah Ita Levitan, Susan McGregor, and Julia Hirschberg. “A Novel Methodology forDeveloping Automatic Harassment Classifiers for Twitter.” InProceedings of the Fourth Workshop on OnlineAbuse and Harms, 7–15. Online: Association for Computational Linguistics, November 2020.
-* Rohan Kshirsagar,Tyrus Cukuvac, Kathy McKeown, andSusan McGregor. “Predictive Embeddings for HateSpeech Detection on Twitter.” In Proceedings of the 2nd Workshop on Abusive Language Online (ALW2),26–32. 2018.
-* Susan E. McGregor. “Private Actors, Public Consequences.” SAIS Review of International Affairs (Washington,DC), no. 2 (2018).
-* Susan E. McGregor,Elizabeth Watkins, and Kelly Caine. “Would you Slack That? The Impact of Security andPrivacy on Cooperative Newsroom Work.” In Proceedings of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing(New York, NY), CSCW ’18, no. 2(November 2017).
-* Susan E. McGregor, Elizabeth Watkins, Mahdi Nasrullah Al-Ameen, Kelly Caine, and Franziska Roesner. “When the Weakest Link is Strong: Secure Collaboration in the Case of the Panama Papers.” In 26th USENIX Security Symposium (USENIX Security 17). USENIX Association, 2017.
-* Elizabeth Anne Watkins,Mahdi Nasrullah Al-Ameen,Franzi Roesner,Kelly Caine,and Susan E. McGregor.“Creative and Set in Their Ways: Challenges of Security Sensemaking in Newsrooms.” In 7th USENIX Workshopon Free and Open Communications on the Internet (FOCI 17). USENIX Association, 2017.
-* Elizabeth Anne Watkins, Franziska Roesner, Susan McGregor, Byron Lowens, Kelly Caine, and Mahdi NasrullahAl-Ameen. “Sensemaking and Storytelling: Network Security Strategies for Collaborative Groups.” In International Conference on Collaboration Technologies and Systems (CTS), 622–623. IEEE, 2016
-* Susan E. McGregor, Franziska Roesner and Kelly Caine. Individual versus Organizational Computer Security and Privacy Concerns in Journalism. Proceedings on Privacy Enhancing Technologies, 2016(4), 418-435.
-* Susan E. McGregor and Elizabeth Watkins. “Security by Obscurity”: Journalists’ Mental Models of Information Security. ISOJ, 2016(6)(1).
-* Susan E. McGregor, Polina Charters, Tobin Holliday and Franziska Roesner. “Investigating the Computer Security Practices and Needs of Journalists, Proceedings of the 24th USENIX Security Symposium. Washington, D.C., August 2015.
-* Susan E. McGregor, “Digital Security and Source Protection for Journalists,” Tow Center for Digital Journalism, June 18, 2014.
-* Kanak Biscuitwala, Willem Bult, Mathias Lécuyer, T. J. Purtell, Madeline K. B. Ross, Augustin Chaintreau, Chris Haseman, Monica S. Lam, and Susan E. McGregor. “Secure, Resilient Mobile Reporting.” In Proceedings of the ACM SIGCOMM 2013 Conference, SIGCOMM’13. Hong Kong, China, August 2013.
+* Francis II, Errol, Catherine Barwulor, Ayana R Monroe, Kediel O Morales, Samya Potlapalli, Kimberly Brown, Julia Jose, Emily Sidnam-Mauch, **Susan E McGregor**, Kelly Caine. "Usable News Authentication: How the Presentation and Location of Cryptographic Information Impacts the Usability of Provenance Information and Perceptions of News Articles." In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI2024), 1-20. 2024. DOI: 10.1145/3613904.3642331
+* Bernat Ivancsics, Eve Washington, Helen Yang, Emily Sidnam-Mauch, Ayana Monroe, Errol Francis, Joseph Bonneau, Kelly Caine, **Susan E McGregor**. "The Invisible Infrastructures of Online Visibility: An Analysis of the Platform-Facing Markup Used by U.S.-Based Digital News Organizations." *Digital Journalism*, 11(8), 2023. DOI: 10.1080/21670811.2022.2156365
+* Arora, Ishaan, Julia Guo, Sarah Ita Levitan, **Susan McGregor**, and Julia Hirschberg. “A Novel Methodology for Developing Automatic Harassment Classifiers for Twitter.” In Proceedings of the Fourth Workshop on Online Abuse and Harms, 7–15. Online: Association for Computational Linguistics, November 2020.
+* Rohan Kshirsagar,Tyrus Cukuvac, Kathy McKeown, and **Susan McGregor**. “Predictive Embeddings for HateSpeech Detection on Twitter.” In Proceedings of the 2nd Workshop on Abusive Language Online (ALW2),26–32. 2018.
+* **Susan E. McGregor**. “Private Actors, Public Consequences.” SAIS Review of International Affairs (Washington,DC), no. 2 (2018).
+* **Susan E. McGregor**, Elizabeth Watkins, and Kelly Caine. “Would you Slack That? The Impact of Security andPrivacy on Cooperative Newsroom Work.” In Proceedings of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing(New York, NY), CSCW ’18, no. 2(November 2017).
+* **Susan E. McGregor**, Elizabeth Watkins, Mahdi Nasrullah Al-Ameen, Kelly Caine, and Franziska Roesner. “When the Weakest Link is Strong: Secure Collaboration in the Case of the Panama Papers.” In 26th USENIX Security Symposium (USENIX Security 17). USENIX Association, 2017.
+* Elizabeth Anne Watkins, Mahdi Nasrullah Al-Ameen, Franzi Roesner, Kelly Caine, and **Susan E. McGregor**.“Creative and Set in Their Ways: Challenges of Security Sensemaking in Newsrooms.” In 7th USENIX Workshopon Free and Open Communications on the Internet (FOCI 17). USENIX Association, 2017.
+* Elizabeth Anne Watkins, Franziska Roesner, **Susan McGregor**, Byron Lowens, Kelly Caine, and Mahdi NasrullahAl-Ameen. “Sensemaking and Storytelling: Network Security Strategies for Collaborative Groups.” In International Conference on Collaboration Technologies and Systems (CTS), 622–623. IEEE, 2016
+* **Susan E. McGregor**, Franziska Roesner and Kelly Caine. Individual versus Organizational Computer Security and Privacy Concerns in Journalism. Proceedings on Privacy Enhancing Technologies, 2016(4), 418-435.
+* **Susan E. McGregor** and Elizabeth Watkins. “Security by Obscurity”: Journalists’ Mental Models of Information Security. ISOJ, 2016(6)(1).
+* **Susan E. McGregor**, Polina Charters, Tobin Holliday and Franziska Roesner. “Investigating the Computer Security Practices and Needs of Journalists, Proceedings of the 24th USENIX Security Symposium. Washington, D.C., August 2015.
+* **Susan E. McGregor**, “Digital Security and Source Protection for Journalists,” Tow Center for Digital Journalism, June 18, 2014.
+* Kanak Biscuitwala, Willem Bult, Mathias Lécuyer, T. J. Purtell, Madeline K. B. Ross, Augustin Chaintreau, Chris Haseman, Monica S. Lam, and **Susan E. McGregor**. “Secure, Resilient Mobile Reporting.” In Proceedings of the ACM SIGCOMM 2013 Conference, SIGCOMM’13. Hong Kong, China, August 2013.
 ACM 2013, 978-1-4503-2056-6.
-* Kanak Biscuitwala, Willem Bult, Mathias Lécuyer, T. J. Purtell, Madeline K. B. Ross, Augustin Chaintreau, Chris Haseman, Monica S. Lam, and Susan E. McGregor. “Weaving a Safe Web of News.” In Proceedings of the First Workshop on Social News on the Web @ WWW ’13. Rio de Janiero, Brazil. May 2013.
-* Alon Halevy and Susan E. McGregor. “Data Management for journalism.” Bulletin of the IEEE Computer Society Technical Committee on Data Engineering, September 2012.
+* Kanak Biscuitwala, Willem Bult, Mathias Lécuyer, T. J. Purtell, Madeline K. B. Ross, Augustin Chaintreau, Chris Haseman, Monica S. Lam, and **Susan E. McGregor**. “Weaving a Safe Web of News.” In Proceedings of the First Workshop on Social News on the Web @ WWW ’13. Rio de Janiero, Brazil. May 2013.
+* Alon Halevy and **Susan E. McGregor**. “Data Management for journalism.” Bulletin of the IEEE Computer Society Technical Committee on Data Engineering, September 2012.
 
 ##### WHITE PAPERS
 -----
